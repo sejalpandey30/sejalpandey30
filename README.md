@@ -6,11 +6,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&center=true&vCenter=true&width=700&lines=AI+%7C+ML+Developer;Full+Stack+Developer;Research+Enthusiast;Hackathon+Builder;Always+Learning+Something+New;CyberSec;" />
 </p>
 
----
 
-## 🌸 About Me
+##  About Me
 
-🧠 Turning ideas into real products
+ Turning ideas into real products:)
 
 🚀 Building AI, Smart Cities & Intelligent Systems
 
@@ -18,21 +17,20 @@
 
 💻 Full Stack + AI + Research
 
+
 🌱 Currently building:
 
 - Smart Transit Platform
 - Stock Research Assistant
 
----
 
-## 🎮 Developer Stats
+## Developer Stats
 
 🏆 Level: Fresher
 ⚡ XP: Building projects every week
 🔥 Current Quest: Software Engineering Internship
 🎯 Boss Battle: FAANG + Research Publications
 
----
 
 ## 🛠 My Arsenal
 
@@ -49,7 +47,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
----
+
 
 ##  Featured Missions
 
@@ -61,9 +59,9 @@
 
 🏠 House Price Predictor
 
----
 
-## 📊 GitHub Universe
+
+##  GitHub Universe
 
 <!-- GitHub Stats -->
 <p align="center">
@@ -82,13 +80,13 @@
 </p>
 
 
-## ☕ Random Dev Quote
+##  Random Dev Quote
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
-## 🤝 Let's Connect
+## Let's Connect
 
 LinkedIn : https://www.linkedin.com/in/sejal-pandey-2aa018270/
 
