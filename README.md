@@ -36,8 +36,17 @@
 
 ## 🛠 My Arsenal
 
+<h3 align="center">🛠 Tech Stack & Tools</h3>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,nextjs,supabase,tensorflow,pytorch,sklearn,git,figma,arduino" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,nextjs,nodejs,flask,django,html,css,tailwind,tensorflow,pytorch,opencv,git,github,vscode,figma,firebase,supabase,postgres,mysql,arduino,docker,linux&perline=13" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
