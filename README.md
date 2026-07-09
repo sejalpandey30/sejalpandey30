@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&center=true&vCenter=true&width=700&lines=AI+%7C+ML+Developer;Full+Stack+Developer;Research+Enthusiast;Hackathon+Builder;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&center=true&vCenter=true&width=700&lines=AI+%7C+ML+Developer;Full+Stack+Developer;Research+Enthusiast;Hackathon+Builder;Always+Learning+Something+New;CyberSec;" />
 </p>
 
 ---
@@ -49,7 +49,7 @@
 
 ---
 
-## 🚀 Featured Missions
+##  Featured Missions
 
 🚌 Smart Transit Platform
 
@@ -76,19 +76,15 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sejalpandey30/sejalpandey30/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/sejalpandey30/sejalpandey30/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
-(Add Trophies)
-
----
 
 ## ☕ Random Dev Quote
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
----
 
 ## 🤝 Let's Connect
 
