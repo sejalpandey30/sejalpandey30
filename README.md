@@ -36,16 +36,9 @@
 
 ## 🛠 My Arsenal
 
-🐍 Python
-⚛ React
-▲ Next.js
-🔥 Firebase
-🧠 TensorFlow
-🤖 PyTorch
-📊 Scikit-Learn
-☁ Git
-🎨 Figma
-⚡ Arduino
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,react,nextjs,supabase,tensorflow,pytorch,sklearn,git,figma,arduino" />
+</p>
 
 ---
 
