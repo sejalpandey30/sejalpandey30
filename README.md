@@ -63,15 +63,16 @@
 
 ##  GitHub Universe
 
-<!-- GitHub Stats -->
+<h2 align="center">🌌 GitHub Universe</h2>
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sejalpandey30&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://streak-stats.demolab.com?user=sejalpandey30&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sejalpandey30&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=sejalpandey30&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sejalpandey30&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+  <img src="https://github-profile-trophy.vercel.app/?username=sejalpandey30&theme=tokyonight&no-frame=true"/>
+</p> 
 
 ## 🐍 Contribution Snake
 
