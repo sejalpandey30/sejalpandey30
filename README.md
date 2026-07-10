@@ -10,6 +10,7 @@ Hey! I'm Sejal Pandey
  Turning ideas into real products:)!
  
 🎓 Electronics & Computer Engineering
+
 💻 Full Stack + AI + Research + CyberSec
 
 🌱 Currently building:
@@ -19,7 +20,7 @@ Hey! I'm Sejal Pandey
 ## Developer Stats
 🏆 Level: Fresher
 ⚡ XP: Building projects every week
-🔥 Current Quest: Software Engineering Internship
+🔥 Current Quest: Software Engineering
 🎯 Boss Battle: FAANG + Research Publications
 
 
@@ -56,5 +57,6 @@ Hey! I'm Sejal Pandey
 
 ## Let's Connect
 LinkedIn : https://www.linkedin.com/in/sejal-pandey-2aa018270/
+
 Email : sejalpandey3114@gmail.com
 
