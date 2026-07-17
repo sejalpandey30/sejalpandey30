@@ -9,20 +9,17 @@ Hey! I'm Sejal Pandey :)
 ##  About Me
  Turning ideas into real products:)!
  
-🎓 Electronics & Computer Engineering
+🎓 I'm an Electronics & Computer undergrad
 
 💻 Full Stack + AI + Research + CyberSec
 
-🌱 Currently building:
-- Smart Transit Platform
-- Stock Research Assistant
+🌱 Currently building: A Smart Transit Platform for Delhi people!
 
 ## Developer Stats
 🏆 Level: Fresher
 ⚡ XP: Building projects every week
 🔥 Current Quest: Software Engineering
-🎯 Boss Battle: FAANG + Research Publications
-
+🎯 Boss Battle: FAANG + Research Publications (even MANGO would work)
 
 ## 🛠 My Arsenal
 <h3 align="center">🛠 Tech Stack & Tools</h3>
@@ -42,7 +39,6 @@ Hey! I'm Sejal Pandey :)
 🚌 Smart Transit Platform
 📈 Stock Research Assistant
 💧 Water Intelligence System
-🏠 House Price Predictor
 
 ## 🐍 Contribution Snake
 
