@@ -13,7 +13,7 @@ Hey! I'm Sejal Pandey :)
 
 💻 Full Stack + AI + Research + CyberSec
 
-🌱 Currently building: A Smart Transit Platform for Delhi people!
+🌱 Currently building: Smart tourist Response System
 
 ## Developer Stats
 
@@ -55,5 +55,5 @@ Hey! I'm Sejal Pandey :)
 ## Let's Connect
 LinkedIn : https://www.linkedin.com/in/sejal-pandey-2aa018270/
 
-Email : sejalpandey3114@gmail.com
+Email : sejalpandeywork@gmail.com
 
